@@ -20,15 +20,15 @@ For questions about the code, please contact Chuxuan Sun (chuxuan.sun@pennmedici
 
 Register for access to the HRS and RAND HRS data on the HRS website (https://hrs.isr.umich.edu/data-products), then download the following files (both .dct and .da, or .dta where noted):
 
-RAND HRS Fat Files: h02f2c, h04f1c, h06f3a, h08f3a, hd10f5f, h12f3a, h14f2b, h16f2b, h18f2a
+- RAND HRS Fat Files: h02f2c, h04f1c, h06f3a, h08f3a, hd10f5f, h12f3a, h14f2b, h16f2b, h18f2a
 
-RAND HRS Longitudinal File: randhrs1992_2018v2.dta
+- RAND HRS Longitudinal File: randhrs1992_2018v2.dta
 
-RAND HRS Family Data Respondent-Kid File: randhrsfamk1992_2018v1.dta
+- RAND HRS Family Data Respondent-Kid File: randhrsfamk1992_2018v1.dta
 
-HRS Langa-Weir Classification of Cognitive Function: cogfinalimp_9518wide.dta
+- HRS Langa-Weir Classification of Cognitive Function: cogfinalimp_9518wide.dta
 
-HRS Core Helper File: H02G_HP, H04G_HP, H06G_HP, H08G_HP, H10G_HP, H12G_HP, H14G_HP, H16G_HP, h18g_hp
+- HRS Core Helper File: H02G_HP, H04G_HP, H06G_HP, H08G_HP, H10G_HP, H12G_HP, H14G_HP, H16G_HP, h18g_hp
 
 Place RAND HRS Fat Files in the “rand_fat” folder, place RAND HRS Longitudinal File and RAND HRS Family Data Respondent-Kid File in the “rand” folder, and place HRS Core Helper File in the “core” folder.
 
